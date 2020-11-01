@@ -1,4 +1,4 @@
-**Hello I am Anurag Kumar 👋**
+**Hello,I'm Anurag Kumar 👋**
 >Something about me:
 
 > - :books: Undegrad at Indian instituteof information technology,Sricity.
