@@ -1,8 +1,8 @@
 **Welcome 👋**
 >Something about me:
 
-> - 🔭 Undegrad at IIIT Sri City
-> - 🌱 A fan of ML and DL
+> - 🔭 Undegrad at Indian instituteof information technology,Sricity
+> - 🌱 A fan Django and ML.
 > - ✉️ How to reach me: anu725053@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anu725053&show_icons=true&theme=dracula)
