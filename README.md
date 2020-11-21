@@ -3,7 +3,7 @@
 
 > - :books: Undegrad at Indian institute of information technology,Sricity.
 > - :moneybag: Freelancer.
-> - 🌱 A fan Django and ML.
+> - 🌱 A fan of Django and ML.
 > - ✉️ How to reach me: anu725053@gmail.com
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anu725053&show_icons=true&theme=dracula)
